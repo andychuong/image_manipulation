@@ -1,5 +1,7 @@
 #BlueJ class context
-comment0.params=theImage
-comment0.target=void\ filter(PixelImage)
-comment0.text=\r\n\ Modify\ the\ image\ according\ to\ your\ algorithm\r\n\ \r\n\ @param\ \ theImage\ The\ image\ to\ modify\r\n
-numComments=1
+comment0.target=Filter
+comment0.text=\n\ Defines\ a\ filter\ method\ to\ modify\ images\n\ \n\ @author\ Richard\ Dunn\n\ @version\ March\ 2,\ 2002\n
+comment1.params=theImage
+comment1.target=void\ filter(PixelImage)
+comment1.text=\n\ Modify\ the\ image\ according\ to\ your\ algorithm\n\ \n\ @param\ \ theImage\ The\ image\ to\ modify\n
+numComments=2
