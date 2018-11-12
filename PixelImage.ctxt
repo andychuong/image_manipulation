@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=bi
+comment0.target=PixelImage(java.awt.image.BufferedImage)
+comment0.text=\r\n\ Map\ this\ PixelImage\ to\ a\ real\ image\r\n\ @param\ bi\ The\ image\r\n
+comment1.params=
+comment1.target=int\ getWidth()
+comment1.text=\r\n\ Return\ the\ width\ of\ the\ image\r\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment2.text=\r\n\ Return\ the\ height\ of\ the\ image\r\n
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ getImage()
+comment3.text=\r\n\ IGNORE\ THIS\ METHOD\ \r\n
+comment4.params=
+comment4.target=Pixel[][]\ getData()
+comment4.text=\r\n\ Return\ the\ image's\ pixel\ data\ as\ an\ array\ of\ Pixels.\ \ The\r\n\ first\ coordinate\ is\ the\ x-coordinate,\ so\ the\ size\ of\ the\ \r\n\ array\ is\ [width][height],\ where\ width\ and\ height\ are\ the\ \r\n\ dimensions\ of\ the\ array\r\n\ @return\ The\ array\ of\ pixels\r\n
+comment5.params=data
+comment5.target=void\ setData(Pixel[][])
+comment5.text=\r\n\ Set\ the\ image's\ pixel\ data\ from\ an\ array.\ \ This\ array\ matches\r\n\ that\ returned\ by\ getData().\ \ It\ is\ an\ error\ to\ pass\ in\ an\r\n\ array\ that\ does\ not\ match\ the\ image's\ dimensions\ or\ that\r\n\ has\ pixels\ with\ invalid\ values\ (not\ 0-255)\r\n\ @param\ data\ The\ array\ to\ pull\ from\r\n
+numComments=6

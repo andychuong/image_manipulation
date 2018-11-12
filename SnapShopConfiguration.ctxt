@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=theShop
+comment0.target=void\ configure(SnapShop)
+comment0.text=\r\n\ Method\ to\ configure\ the\ SnapShop.\ \ Call\ methods\ like\ addFilter\r\n\ and\ setDefaultFilename\ here.\r\n\ @param\ theShop\ A\ pointer\ to\ the\ application\r\n
+numComments=1
